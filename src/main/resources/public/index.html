@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Neo4j Test Mark Andrews</title>
+
+
+</head>
+<body>
+
+
+
+    <div>
+	<b>Employees</b>
+	<table id="thetable">
+		<tr>
+			<th>Name</th>
+			<th>Id</th>
+		</tr>
+		<tr></tr>
+	</table>
+		
+    </div>
+	<div>
+	<b>Add New</b> <br/>
+	<input type="text" id="name" placeholder="Name"><br>
+  <input type="text" id="id" placeholder="ID"><br>
+  <input type="submit" id="submit" value="Submit">
+	</div>
+
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<script  type="text/javascript">
+function populateTable(){
+		apiurl =  "employee/list"
+        $.ajax({ 
+             type: "GET",
+             dataType: "json",
+             url: apiurl ,
+             success: function(data){     
+				$('#thetable tr').not(':first').not(':last').remove();
+				var html = '';
+				for(var i = 0; i < data.length; i++)
+					html += '<tr><td>' + data[i].employee_name + 
+						'</td><td>' + data[i].id + '</td></tr>';
+				$('#thetable tr').first().after(html);
+                
+             }
+			
+        });
+};
+  $(document).ready(function(){ 
+		populateTable();
+		
+		$("#submit").click(function(e){
+			apiurl =  "employee"
+			var formData = {'id':$('#id').val(),'employee_name':$('#name').val()};
+			$.ajax({ 
+				 type: "post",
+				 dataType: "json",
+				 url: apiurl ,
+				 data: JSON.stringify(formData),
+				 processData: false,
+				 success: function(data){     
+					populateTable();
+					$('#id').val('');
+					$('#name').val('');
+				 }
+				
+			});
+		});
+    });
+
+</script>
+</body>
+</html>
