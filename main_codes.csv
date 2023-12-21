@@ -1,0 +1,34 @@
+﻿Code,Code Description 
+Application ,Any mention of an application other than the IETM. 
+Chatty ,Describes the group being interviewed as talkative. 
+Checkboxes ,Any mention of the current IETM checkboxes. 
+Circle X ,Any comment about Circle/X methodology. 
+Complaint ,Any complaint not otherwise addressed by a specific code. 
+Device ,The Sailor mentions using a certain type of device to access the IETM. 
+Frequency ,Any mention of the frequency of use. 
+Hardcopy ,"Any mention of the hardcopy version of the manual, or printed copies of manual pages. "
+Icons,describes comments that mention icons used in IETM interface.
+Illustration ,"Any note about drawings, figures, exhibits, graphics, etc. "
+Image viewer ,"Any mention of a secondary environment for viewing drawings, including prizm viewer. "
+Misc. ,No other code applies. 
+N/A option ,Any mention of an N/A option in procedures. 
+Network Connectivity ,"Any mention of connection to a network, or the quality of the connection. "
+Older ,Describes the age of people interviewed; or the participants use it to describe others. 
+Pdf ,Any mention of using the pdf (includes POD library). 
+Purpose ,Describes why the Sailor is using the IETM. 
+Recording Tables ,Any mention of recording tables or data entry into the IETM. 
+References ,"Any mention of reference links, or references themselves. "
+Revision Incorporation ,"Any comment about the receipt, incorporation, installation, or deployment of manuals. "
+RPM ,Any note about the Reactor Plant Manual specifically. 
+Search ,"Any mention of the search tool, or method of searching, or request for search functionality."
+Specific manual ,Any mention of a particular manual not addressed by a specific code. 
+SPM/SEPM ,Any note about the Steam Plant Manual or Steam and Electric Plant Manual specifically. 
+Subdued ,Describes the group being interviewed as reserved. 
+Time ,Any mention of the amount of time something takes. 
+TOC ,"Any mention of the Table of Contents, even if not called out by name. "
+Useful ,Describes a feature of the current IETM as useful/desirable/easy. Opposite of complaint. 
+Volunteer ,The group volunteered to participate in the interview. 
+Voluntold ,The group was assigned to participate in the interview. 
+Water Chem ,Any note about the Water Chem Manual specifically. 
+Wishlist item ,Any request for a feature or function not addressed by a specific code. 
+Younger ,Describes the age of people interviewed; or the participants use it to describe others. 

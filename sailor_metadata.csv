@@ -1,0 +1,141 @@
+﻿Participant ID,Group ID,Years Served,Current grade and role,Vessels Served On,East/West Coast
+1,1,3,EMN^2 RE12 WCS,Carrier,West
+2,1,13,EMNC E7 LPO,"USS Nimitz, MTS 626, USS Carl Vinson",West
+3,1,2.5,E4 ELT,"Prototype, Carrier",West
+4,1,2.5,E4 MMN3/ELT,"S6G Prototype, Carrier",West
+5,1,4,"E5, RM watchstander, repair parts procurer","Surface, CUN-70",West
+6,1,6,"MMN1, Former LPO",Carrier,West
+7,1,11,"E6, RM LPO",USS Vinson,West
+8,1,5,"E5, Divisional TPO","MTS 625 as a student, CVN-70",West
+9,1,4,E4/RO,A4W Carrier,West
+10,1,5,E4/RO and maintainer,CVN,West
+11,2,4,ETN and almost senior-in-rate reactor operator,S6G submarine and A4W carrier,East & West
+12,2,6,"E6, Training Petty Officer (Responsible for training and qualifications)",Carrier,West
+13,2,5,MMN^2/E5,Carrier/CVN 70,West
+14,2,4,E5/Reactor Electrician,Carrier,West
+15,2,4,"2nd class electrician, Maintenance Tech",A4W Carrier,West
+16,3,6,"E5, PPLAN Administrator Publications Control",Carrier,West
+17,3,5.5,E6 LPO,A4W Surface,West
+18,4,12,"E7, Divisional LLPO",68 Class CVN (72 only) MTS 626,West
+19,4,2.5,"MM^3, Currently the M6S & EDL Manager for RPO5",CVN 72 Abraham Lincoln,West
+22,4,3,MM3,Carrier,West
+23,5,3,MM^3,CVN-72,West
+24,5,17,E8/LCPO,Carrier,West
+25,6,2.5,E4/Publications,68: Type 2,
+26,6,6.5,E6/Lead ELT,"2 - 688, S6G Submarines","East, Guam"
+27,6,1,ETN2,688,Newport News
+28,6,4,"03, JO Outside of Engineering Deot",S6G,East
+29,6,12,E7 - MMNL,688 Submarines,East
+30,6,5.5,"E6, LRYN",USS Columbus,East
+31,6,7,"E6, Engineering Dept Training Assistant","S8G Prototype, S6G",East
+32,6,10,"E6, PEDTA/RCCPO",Two 688 Submarines,Split evenly west/east coast
+33,6,24,EDMC,"Submarine 688 Class (x4), NR-1, 774 Class (x2)",East
+34,6,4.5,Machinist Mate Nuclear 2nd Class,Submarine,East
+35,7,19,"E7, EMNC",Submarines 688/774,East
+36,7,4,"E5, RPPO",Los Angeles & Ohio Class,East
+37,7,3.5,MMN^2,Submarine,East
+38,7,11,"E6, AQAO",688 x3,"West Coast x2, East Coast x3"
+39,7,3.5,"0-2, Div-O",Submarine,"east coast shipyard, deploys on west coast"
+40,7,15,"E7, Reactor Controls Division LCPO","S5W-MTS 626/635, SSN 778/SSN 794 - 596, SSN762 - S66 submarine",East
+41,7,5,E6 ELPO,S6G Submarine,East
+42,8,19,"MMNC, E7","S6G Sub, S8G Sub, S9G Sub",both east and west coast
+43,8,7,E6/ALPO/WLS,"Prototype (S5W Core), Virginia Class Submarine operating at sea",first at sea command
+44,8,18.5,"E8, RC OIU LCPO","S6G (Type I and Type II), MARF, S8GP, S9G Type II",2 west coast and east
+45,8,19,"LT/OSE, assistant engineer","S5W, S6G, S8G, S9G submarine, A4W",both
+46,8,6,E5,Submarine S9G x2,East
+47,8,3.5,"O2, RCA","S5W, S9G",East
+48,8,12,E6 MMN,Submarine 688 + 774 classes,East
+49,8,5,E6/ETN1,Ohio and virginia class,east
+50,8,19,"E8, EDMC","688, 774",East
+51,9,6,"E5, Shutdown Rx Operator","1 prototype staff tour, a SSBN patrol, a VA tour (NGR type I & VAFF Type II)",East
+52,9,2.5,LTJ6 MPAIDLA 1170,"S6G, S9G",East
+53,9,4,"LT, Electrical Assistant","Submarine, S9G Type I and Type II",East
+54,9,7,"E6, MLPO","MARF, SSBN 738 (S8G), SSN 798 (S9G)",East
+55,9,6,MMNI,Submarine,East
+56,9,7.5,"E6, LPO","Sumbarine: S9G, S8G Prototype: MARF",East
+57,9,5.5,ETN2,"S8G, S9G",East
+58,9,7,E6 and ELPO,"688I (SSN 753), VA class (SSN 798), MARF Prototype",East
+59,TYCOM,20,EMNCM (E9) TYCOM,S8G Submarine,"East currently, West for 16 years"
+60,10,5,"E5, TPL LPO/RN ALPO",MTS & A1B,East
+61,10,13,E6,"A4W, A1B",East
+62,10,19,"E6, PPLAN Manager","A2W, A1B",East
+63,10,12,"E6, Work Center Supervisor/LPO","A4W, A1B",East
+64,10,7,"E6, ALPO","Carrier, Prototype",East
+65,10,5,"03, Division Officer","Destroyers, Carrier",East
+66,10,5,MMN^2,aircraft carrier,East
+67,10,12,"E7, MMNC, Reactor Networking Tech Assistant","Sub S5W (prototype staff), Carrier A4W, Sub S6G (Protoype Staff), Carrier A1B","San Diego, Japan, East"
+68,10,5,"3.0, audit & surveillance, prior TPL LPO",A1B,East
+69,10,5,"ETN2, PPLAN Workcenter Supervisor",CVN 79,East
+70,11,3.5,"ETN2, MATHISTORY",Carrier,
+72,11,12,"E8, Reactor Control LCPO",A4W,"4.5 West, 3 year east"
+73,11,4,"E5, LPO",Carrier,East
+74,NAVAIR,16,E9/COMNAVAIRLANT Force Networks,A4W CVNs,Both
+1,,,,,
+2,,,,,
+3,,,,,
+4,,,,,
+5,,,,,
+6,,,,,
+7,,,,,
+8,,,,,
+9,,,,,
+10,,,,,
+11,,,,,
+12,,,,,
+13,,,,,
+14,,,,,
+15,,,,,
+16,,,,,
+17,,,,,
+18,,,,,
+19,,,,,
+22,,,,,
+23,,,,,
+24,,,,,
+26,,,,,
+27,,,,,
+28,,,,,
+29,,,,,
+30,,,,,
+31,,,,,
+32,,,,,
+33,,,,,
+34,,,,,
+35,,,,,
+36,,,,,
+37,,,,,
+38,,,,,
+39,,,,,
+40,,,,,
+41,,,,,
+42,,,,,
+43,,,,,
+44,,,,,
+45,,,,,
+46,,,,,
+47,,,,,
+48,,,,,
+49,,,,,
+50,,,,,
+51,,,,,
+52,,,,,
+53,,,,,
+54,,,,,
+55,,,,,
+56,,,,,
+57,,,,,
+58,,,,,
+59,,,,,
+60,,,,,
+61,,,,,
+62,,,,,
+63,,,,,
+64,,,,,
+65,,,,,
+66,,,,,
+67,,,,,
+68,,,,,
+69,,,,,
+72,,,,,
+73,,,,,
+74,,,,,
